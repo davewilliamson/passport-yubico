@@ -1,0 +1,63 @@
+{
+  "name": "passport-yubico",
+  "version": "1.0.0",
+  "description": "Yubikey authentication strategy for Passport.",
+  "keywords": [
+    "passport",
+    "local",
+    "auth",
+    "authn",
+    "authentication",
+    "yubikey",
+    "yubico"
+  ],
+  "author": {
+    "name": "Dave Williamson",
+    "email": "github@ukit.net",
+    "url": "http://www.ukit.net/"
+  },
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/davewilliamson/passport-yubico.git"
+  },
+  "bugs": {
+    "url": "http://github.com/davewilliamson/passport-yubico/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/MIT"
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Dave Williamson",
+      "email": "github@ukit.net",
+      "url": "http://github.com/davewilliamson"
+    }
+  ],
+  "main": "./lib",
+  "dependencies": {
+    "passport-strategy": "1.x.x",
+    "yub": "^0.10.8"
+  },
+  "engines": {
+    "node": ">= 0.4.0"
+  },
+  "_id": "passport-yubico@1.0.0",
+  "_from": "passport-yubico@",
+  "_npmVersion": "1.0.0",
+  "_npmUser": {
+    "name": "davewilliamson",
+    "email": "github@ukit.net"
+  },
+  "maintainers": [
+    {
+      "name": "davewilliamson",
+      "email": "github@ukit.net"
+    }
+  ],
+  "directories": {},
+  "homepage": "https://github.com/davewilliamson/passport-yubico"
+}
