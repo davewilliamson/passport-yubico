@@ -2,6 +2,10 @@
 
 A Yubico provider for the passport authentication library.
 
+[![NPM](https://nodei.co/npm/passport-yubico.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/passport-yubico/)
+
+[![endorse](https://api.coderwall.com/davewilliamson/endorsecount.png)](https://coderwall.com/davewilliamson)
+
 ## Features
 
 The Yubikey authentication facility returns a serial number for the Yubikey device, and a generated identity value.  The values can be used alone to identify and authenticate a user (i.e. __instead of a user identifier and password);__ or can be used alongside a username OR password to make a fairly secure, but minimal impact authentication system;  or can be used with a username AND password to make a highly secure web site.
