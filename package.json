@@ -1,6 +1,6 @@
 {
   "name": "passport-yubico",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Yubikey authentication strategy for Passport.",
   "keywords": [
     "passport",
@@ -45,9 +45,9 @@
   "engines": {
     "node": ">= 0.4.0"
   },
-  "_id": "passport-yubico@1.0.0",
+  "_id": "passport-yubico@1.0.1",
   "_from": "passport-yubico@",
-  "_npmVersion": "1.0.0",
+  "_npmVersion": "1.0.1",
   "_npmUser": {
     "name": "davewilliamson",
     "email": "github@ukit.net"
