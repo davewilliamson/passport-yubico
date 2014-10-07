@@ -144,8 +144,8 @@ This functionality is typically placed on the users account page that allows the
 ---
 #Want to say thank you?  A bit coin donation is always welcome ;-)
 
-[1HPaCHrbZtrvoVoEdH1mFqqY5jwVHcXVK3](bitcoin://1HPaCHrbZtrvoVoEdH1mFqqY5jwVHcXVK3)
-====
+[![Bitcoin](http://www.painlessmining.com/images/bitcoinqr.png)](bitcoin:13Dbii2cUAt6h47BxkytXAbE6SC1fMS7PP)
+[13Dbii2cUAt6h47BxkytXAbE6SC1fMS7PP](bitcoin://13Dbii2cUAt6h47BxkytXAbE6SC1fMS7PP)
 
 
 
